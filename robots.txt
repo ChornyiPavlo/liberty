@@ -3,5 +3,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://liberatingtheplanet.pro/sitemap.xml
-Host: liberatingtheplanet.pro
+Sitemap: http://pinup.liberatingtheplanet.pro/sitemap.xml
+Host: pinup.liberatingtheplanet.pro

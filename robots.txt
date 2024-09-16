@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow:
+
+
+Sitemap: http://pinup.spaceexpedition.pro/sitemap.xml
+Host: pinup.spaceexpedition.pro

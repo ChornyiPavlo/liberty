@@ -787,6 +787,9 @@ nav ul li:hover a {
   .form-contact {
     width: 80%;
   }
+  img {
+    max-width: 100%;
+  }
 }
 
 .navbar-nav .sub-nav-toggler span {
